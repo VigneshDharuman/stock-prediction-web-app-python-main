@@ -1,10 +1,10 @@
 # Stock Prediction Web Application - Python
 
-Engineering Project 3.
+Project 3.
 
 # Project Developer 
 
- Leyla Abdullayeva - 1904010038
+ Vignesh Dharuman
 
 # Project Description - (Briefly)
 
